@@ -1,0 +1,18 @@
+# Credenciales - NUNCA subir al repositorio
+.env
+.mcp.json
+.claude/settings.local.json
+
+# Repositorios externos (se clonan con setup.sh)
+n8n-mcp/
+n8n-skills/
+
+# Dependencias
+node_modules/
+
+# Logs
+*.log
+
+# Sistema operativo
+.DS_Store
+Thumbs.db

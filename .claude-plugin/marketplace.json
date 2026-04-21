@@ -1,0 +1,31 @@
+{
+  "name": "n8n-makina",
+  "description": "Asistente especializado para construir workflows en n8n",
+  "owner": {
+    "name": "Usuario"
+  },
+  "plugins": [
+    {
+      "name": "n8n-makina",
+      "source": "./",
+      "description": "Bundle completo: asistente Claude Code especializado en n8n con MCP server integrado (n8n-mcp), biblioteca de skills (n8n-skills) y metodología iterativa de construcción de workflows. Incluye conexión directa a tu instancia n8n, 1396+ nodos documentados y 7 skills expertos.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Usuario"
+      },
+      "category": "automation",
+      "keywords": [
+        "n8n",
+        "workflow",
+        "mcp",
+        "automation",
+        "spanish",
+        "claude-code",
+        "skills"
+      ],
+      "homepage": "",
+      "repository": "",
+      "license": "MIT"
+    }
+  ]
+}
